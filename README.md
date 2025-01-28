@@ -1,15 +1,15 @@
 # Olá, eu sou Tiago Pitombeira! 👋
 
 ## Sobre Mim
-Estudante de Programação Full Stack. HTML, CSS, Java Script, Python, Ciência de Dados, Ux Ui Desing, em processo de transição de carreira e disposto colaborar ao máximo. Atualmente estou focado em Python, Ciencia de Dados, UX UI Desing e Framework DJango e sempre estou explorando novas tecnologias e tendências no mundo do desenvolvimento.
+Estudante de Programação Full Stack. HTML, CSS, Java Script, Python, Ciência de Dados, Ux Ui Desing, em processo de transição de carreira e disposto colaborar ao máximo. Atualmente estou focado em Python, Ciencia de Dados, UX UI Design e Framework DJango e sempre estou explorando novas tecnologias e tendências no mundo do desenvolvimento.
 
 - 🔭 Atualmente estou trabalhando em Boteco do Pitombeira
-- 🌱 Estou aprendendo [tecnologia ou habilidade que você está estudando atualmente]
-- 👯 Estou procurando colaborar em [tipo de projetos que você está interessado]
-- 🤔 Estou procurando ajuda com [um problema técnico ou área que você deseja aprender]
-- 💬 Pergunte-me sobre [um tópico que você está confortável para discutir]
-- 📫 Como entrar em contato comigo: [seu e-mail]
-- ⚡ Curiosidade: [uma curiosidade interessante sobre você]
+- 🌱 Estou Aprendendo Programação Full Stack(Infinity School), MySQL(Expert Cursos) e Design UX/UI + IA(Digital College)
+- 👯 Estou Procurando Colaborar com a Empresa que me Ajudar no meu Processo de Transição de Carreira
+- 🤔 Estou Procurando Ajuda com meu Processo de Transição de Carreira
+- 💬 Pergunte-me sobre Minhas Experiencias de Vida.
+- 📫 Como entrar em Contato Comigo: Tel:(85)9 8688.0735 ou E-mail:tiagopitombeira1984@gmail.com
+- ⚡ Curiosidade: Completo 41 Anos em Maio/2025, sou Casado a 14 Anos e Tenho um Filho de 6 Anos
 
 
 ## Minhas Estatísticas
