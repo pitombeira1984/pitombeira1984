@@ -30,6 +30,12 @@ Estudante de Programação Full Stack. HTML, CSS, Java Script, Python, Ciência 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+---WhattSapp: (85)9 8688.0735 ----
+<a href="https://wa.me/5585986880735">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+https://wa.me/5511912345678. 
 
 GMAIL: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 WHATTSAPP: https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
