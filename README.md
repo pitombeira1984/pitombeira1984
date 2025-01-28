@@ -21,12 +21,12 @@ Estudante de Programação Full Stack. HTML, CSS, Java Script, Python, Ciência 
 
 
 ----- como adicioanr badge? ----
-<a href="link do seu perfil do linkedin">
+<a href="https://www.linkedin.com/in/tiago-pitombeira-3701ba313/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 --- gmail ----
-<a href="mailto:seuemail">
+<a href="mailto:tiagopitombeira1984@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
