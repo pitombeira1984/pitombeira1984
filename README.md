@@ -1,7 +1,7 @@
 # Olá, eu sou Tiago Pitombeira! 👋
 
 ## Sobre Mim
-Estudante de Programação Full Stack. HTML, CSS, Java Script, Python, Ciência de Dados, Ux Ui Desing, em processo de transição de carreira e disposto colaborar ao máximo. Atualmente estou focado em Python, Ciencia de Dados, UX UI Design e Framework DJango e sempre estou explorando novas tecnologias e tendências no mundo do desenvolvimento.
+Estudante de Programação Full Stack. HTML, CSS, Java Script, Python, Ciência de Dados, Ux Ui Desing, em processo de transição de carreira e disposto a colaborar ao máximo. Atualmente estou focado em Python, Ciencia de Dados, UX UI Design e Framework DJango e sempre estou explorando novas tecnologias e tendências no mundo do desenvolvimento.
 
 - 🔭 Atualmente estou trabalhando em Boteco do Pitombeira
 - 🌱 Estou Aprendendo Programação Full Stack(Infinity School), MySQL(Expert Cursos) e Design UX/UI + IA(Digital College)
