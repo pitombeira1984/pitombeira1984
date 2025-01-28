@@ -20,12 +20,12 @@ Estudante de Programação Full Stack. HTML, CSS, Java Script, Python, Ciência 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitombeira1984&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
------ como adicioanr badge? ----
+----- https://www.linkedin.com/in/tiago-pitombeira-3701ba313/ ----
 <a href="https://www.linkedin.com/in/tiago-pitombeira-3701ba313/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
---- gmail ----
+--- tiagopitombeira1984@gmail.com ----
 <a href="mailto:tiagopitombeira1984@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
