@@ -36,7 +36,7 @@ Estudante de Programação Full Stack. HTML, CSS, Java Script, Python, Ciência 
 </a>
 <br /> <br />
 
-✅ Minhas Habilidades <br /> <br />
+✅ Minhas Habilidades
 
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
