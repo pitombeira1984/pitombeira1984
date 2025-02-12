@@ -9,7 +9,10 @@ Estudante de Programação Full Stack. HTML, CSS, Java Script, Python, Ciência 
 - 🤔 Estou Procurando Ajuda com meu Processo de Transição de Carreira
 - 💬 Pergunte-me sobre Minhas Experiencias de Vida.
 - 📫 Como entrar em Contato Comigo: Tel:(85)9 8688.0735 ou E-mail: tiagopitombeira1984@gmail.com
-- ⚡ Curiosidade: Completo 41 Anos em Maio/2025, sou Casado a 14 Anos e Tenho um Filho de 6 Anos
+- ⚡ Curiosidade:- Completo 41 Anos em Maio/2025, sou Casado a 14 Anos e Tenho um Filho de 6 Anos.
+                  - Tenho Fornação Técnica em Mecatronica pelo SENAI-AUA
+                  - Trabalhei na Empresa SENAI-Maracanau como Técnico da Qualidade
+                  - Trabalhei na Empresa Esplanada como Analista de Controladoria.
 
 
 ## Minhas Estatísticas
