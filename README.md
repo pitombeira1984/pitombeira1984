@@ -4,7 +4,7 @@
 Qualificado em Programação Full Stack. HTML, CSS, Java Script, Python, Ciência de Dados, Ux Ui Desing, em processo de transição de carreira e disposto a colaborar ao máximo. Atualmente estou focado em Python, Ciencia de Dados, UX UI Design e Framework React e sempre estou explorando novas tecnologias e tendências no mundo do desenvolvimento.
 
 - 🔭 Atualmente estou trabalhando em Boteco do Pitombeira
-- 🌱 Estou Aprendendo Programação Full Stack(Infinity School), MySQL(Expert Cursos) e Design UX/UI + IA(Digital College)
+- 🌱 Estou Aprendendo Framework React(Ûdemy), Design UX/UI + IA(Digital College)
 - 👯 Estou Procurando Colaborar com a Empresa que me Ajudar no meu Processo de Transição de Carreira
 - 🤔 Estou Procurando Ajuda com meu Processo de Transição de Carreira
 - 💬 Pergunte-me sobre Minhas Experiencias de Vida.
@@ -45,9 +45,6 @@ Qualificado em Programação Full Stack. HTML, CSS, Java Script, Python, Ciênci
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </span>
 <span>
-<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-</span>
-<span>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 </span>
 <span>
@@ -57,11 +54,23 @@ Qualificado em Programação Full Stack. HTML, CSS, Java Script, Python, Ciênci
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </span>
 <span>
+<img src="https://img.shields.io/badge/JavaScript-999147?style=for-the-badge&logo=javascript&logoColor=black" />
+</span>
+<span>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</span>
+<span>
+<img src="https://img.shields.io/badge/PopSQL-fa3461?style=for-the-badge&logo=popsql&logoColor=white" />
+</span>
+<span>
+<img src="https://img.shields.io/badge/SQLite-043b54?style=for-the-badge&logo=popsql&logoColor=white" />
 </span>
 <span>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </span>
 <span>
-<img src="https://img.shields.io/badge/WebFlow-006ffe?style=for-the-badge&logo=WebFlow&logoColor=white" />
+<img src="https://img.shields.io/badge/WebFlow-006ffe?style=for-the-badge&logo=Webflow&logoColor=white" />
+</span>
+<span>
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </span>
