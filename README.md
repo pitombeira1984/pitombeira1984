@@ -1,7 +1,7 @@
 # Olá, eu sou Tiago Pitombeira! 👋
 
 ## Sobre Mim
-Estudante de Programação Full Stack. HTML, CSS, Java Script, Python, Ciência de Dados, Ux Ui Desing, em processo de transição de carreira e disposto a colaborar ao máximo. Atualmente estou focado em Python, Ciencia de Dados, UX UI Design e Framework DJango e sempre estou explorando novas tecnologias e tendências no mundo do desenvolvimento.
+Qualificado em Programação Full Stack. HTML, CSS, Java Script, Python, Ciência de Dados, Ux Ui Desing, em processo de transição de carreira e disposto a colaborar ao máximo. Atualmente estou focado em Python, Ciencia de Dados, UX UI Design e Framework React e sempre estou explorando novas tecnologias e tendências no mundo do desenvolvimento.
 
 - 🔭 Atualmente estou trabalhando em Boteco do Pitombeira
 - 🌱 Estou Aprendendo Programação Full Stack(Infinity School), MySQL(Expert Cursos) e Design UX/UI + IA(Digital College)
@@ -61,4 +61,7 @@ Estudante de Programação Full Stack. HTML, CSS, Java Script, Python, Ciência 
 </span>
 <span>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</span>
+<span>
+<img src="https://img.shields.io/badge/WebFlow-006ffe?style=for-the-badge&logo=WebFlow&logoColor=white" />
 </span>
